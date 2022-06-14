@@ -1,0 +1,15 @@
+Win + 1 = user
+Win + 2 = pass
+
+;ack = template acknowledt
+;hola = idem pero en español
+
+;fup1
+;fup2
+;fup3
+;fup4
+{follow ups ordenados (el 1 y 2 pueden ser primer follow up, son ligeramente distintos segun el contexto)}
+
+;dsr = template DSR
+
+;def = template defect
